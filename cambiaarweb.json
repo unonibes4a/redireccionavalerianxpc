@@ -3,8 +3,18 @@
 
       "img" : "img/libros/biologiacelumol.jpg",
       "pg" : "https://unonibes4a.github.io/vevalerianxop1pc/"
-      }
+      },
+      "valerianpcop2" : {
+
+        "img" : "img/libros/biologiacelumol.jpg",
+        "pg" : "https://www.google.com/"
+        }
+        ,
+        "valerianpcop3" : {
   
+          "img" : "img/libros/biologiacelumol.jpg",
+          "pg" : "https://tutoriales.online/blog/electron-js-desde-cero"
+          }
   
   }
   
